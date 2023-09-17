@@ -69,7 +69,7 @@ static const struct arg args[] = {
     {run_command,    " %s ",                                                                              "volume"},
     {run_command,    " %s ",                                                                              "battery"},
     {run_command,    " %s ",                                                                              "wifi"},
-    {run_command,    " %s ",                                                                              "datetime"},
+    {run_command,    " %s   ",                                                                              "datetime"},
 };
 
 
